@@ -1,7 +1,4 @@
-######################################
-#Copyright of David Bombal, 2021     #
-#https://www.davidbombal.com         #
-#https://www.youtube.com/davidbombal #
+
 ######################################
 import subprocess
 import re
