@@ -1,8 +1,4 @@
-######################################
-#Copyright of David Bombal, 2021     #
-#https://www.davidbombal.com         #
-#https://www.youtube.com/davidbombal #
-######################################
+
 
 # Import subprocess so we can use system commands
 import subprocess
